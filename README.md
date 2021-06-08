@@ -18,12 +18,13 @@
 
 8 `python2 Report.py`
 
-[+] ___REQUIREMENTS : 
+[+] ___REQUIREMENTS :___
 
 1 [ TERMUX ]
 2 [ Target ID Code ]
 
 <Img src="/Report.png">
 
-  
-  # ___HAPPY_HACKING___ :-)
+# ___HAPPY_HACKING___ :-)
+
+<<< IF YOU COPY, THEN GIVE ME CREDITS >>>
