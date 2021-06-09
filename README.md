@@ -27,7 +27,7 @@
 
 
 # Also you can use this tool in :[Google Cloud Shell] 
-<<<shell.cloud.google.com>>>
+[+] LINK : https://shell.cloud.google.com/?show=ide%2Cterminal
 # ___COMMANDS :___
 1 `sudo -i`
 
