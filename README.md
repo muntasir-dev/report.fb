@@ -1,8 +1,11 @@
 # ___REPORT.FB___
 <<< Report.FB is a tool which can report a person's ID for several time, Until the ID got "BANNED" >>>
 
-<color Red> ### AGE RESTRICTED>>> 16+ ONLY <color/>
 
+<h2 style="color: Red;">
+# AGE RESTRICTED>>> 16+ ONLY <color/>
+<h2/>
+  
 # ___COMMANDS :___
 
 1 `apt update && apt upgrade`
