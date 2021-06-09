@@ -1,4 +1,7 @@
 # ___REPORT.FB___
+<<< Report.FB is a tool which can report a report a persons ID for several time, Until the ID got "BANNED" >>>
+
+### AGE RESTRICTED>>> 16+ ONLY
 
 # ___COMMANDS :___
 
@@ -20,8 +23,8 @@
 
 [+] ___REQUIREMENTS :___
 
-1 [ TERMUX ]
-2 [ Target ID Code ]
+1. [ TERMUX ]
+2. [ Target ID Code ]
 
 <Img src="/Report.png">
 
