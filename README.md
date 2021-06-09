@@ -1,9 +1,10 @@
 # ___REPORT.FB___
 <<< Report.FB is a tool which can report a person's ID for several time, Until the ID got "BANNED" >>>
 
-
-<font color="green">AGE RESTRICTED>>> 16+ ONLY </font>
-
+```diff
+- text in red
+AGE RESTRICTED>>> 16+ ONLY 
+```
 
 # ___COMMANDS :___
 
