@@ -1,7 +1,8 @@
 # ___REPORT.FB___
-<<< Report.FB is a tool which can report a person's ID for several time, Until the ID got "BANNED" >>>
-
 ```diff
+- <<< Report.FB is a tool which can report a person's ID for several time, Until the ID got "BANNED" >>>
+
+
 - AGE RESTRICTED>>> 16+ ONLY 
 ```
 
@@ -23,10 +24,32 @@
 
 8 `python2 Report.py`
 
+
+
+# Also you can use this tool in :[Google Cloud Shell] 
+<<<shell.cloud.google.com>>>
+# ___COMMANDS :___
+1 `sudo -i`
+
+2 `apt install python2`
+
+3 `apt install python`
+
+4 `apt install git`
+
+5 `git clone https://github.com/bd-crackers/report.fb`
+
+6 `cd report.fb`
+
+7 `unzip Report.zip`
+
+8 `python2 Report.py`
+
 [+] ___REQUIREMENTS :___
 
-1. [ TERMUX ]
-2. [ Target ID Code ]
+1. [ TERMUX ] OR [ Google Cloud Shell}
+
+3. [ Target ID Code ]
 
 <Img src="/Report.png">
 
